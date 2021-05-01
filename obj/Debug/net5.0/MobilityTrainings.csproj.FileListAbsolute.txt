@@ -1,0 +1,16 @@
+C:\Users\arifa\Documents\C#_Trainings\MobilityTrainings\bin\Debug\net5.0\MobilityTrainings.exe
+C:\Users\arifa\Documents\C#_Trainings\MobilityTrainings\bin\Debug\net5.0\MobilityTrainings.deps.json
+C:\Users\arifa\Documents\C#_Trainings\MobilityTrainings\bin\Debug\net5.0\MobilityTrainings.runtimeconfig.json
+C:\Users\arifa\Documents\C#_Trainings\MobilityTrainings\bin\Debug\net5.0\MobilityTrainings.runtimeconfig.dev.json
+C:\Users\arifa\Documents\C#_Trainings\MobilityTrainings\bin\Debug\net5.0\MobilityTrainings.dll
+C:\Users\arifa\Documents\C#_Trainings\MobilityTrainings\bin\Debug\net5.0\ref\MobilityTrainings.dll
+C:\Users\arifa\Documents\C#_Trainings\MobilityTrainings\bin\Debug\net5.0\MobilityTrainings.pdb
+C:\Users\arifa\Documents\C#_Trainings\MobilityTrainings\obj\Debug\net5.0\MobilityTrainings.csprojAssemblyReference.cache
+C:\Users\arifa\Documents\C#_Trainings\MobilityTrainings\obj\Debug\net5.0\MobilityTrainings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arifa\Documents\C#_Trainings\MobilityTrainings\obj\Debug\net5.0\MobilityTrainings.AssemblyInfoInputs.cache
+C:\Users\arifa\Documents\C#_Trainings\MobilityTrainings\obj\Debug\net5.0\MobilityTrainings.AssemblyInfo.cs
+C:\Users\arifa\Documents\C#_Trainings\MobilityTrainings\obj\Debug\net5.0\MobilityTrainings.csproj.CoreCompileInputs.cache
+C:\Users\arifa\Documents\C#_Trainings\MobilityTrainings\obj\Debug\net5.0\MobilityTrainings.dll
+C:\Users\arifa\Documents\C#_Trainings\MobilityTrainings\obj\Debug\net5.0\ref\MobilityTrainings.dll
+C:\Users\arifa\Documents\C#_Trainings\MobilityTrainings\obj\Debug\net5.0\MobilityTrainings.pdb
+C:\Users\arifa\Documents\C#_Trainings\MobilityTrainings\obj\Debug\net5.0\MobilityTrainings.genruntimeconfig.cache
